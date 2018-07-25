@@ -1275,6 +1275,16 @@ body.pushmenu-push-toLeft{
     transition: 300ms;
 }
 
+.expertise_block img{
+  margin-bottom: 20px;
+  transition: 300ms;
+  height: 80px;
+}
+
+.expertise_block:hover img{
+  transform: translateY(-5px);
+}
+
 
 /* Cirlce Pie Section */
 
